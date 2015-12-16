@@ -1,0 +1,26 @@
+
+box.encrypt=1
+box.packdefault=1
+box.pattern=*.*
+box.separate=0
+box.ziplevel=1
+dir.addfiles=E:\·ÉÂí±­\³ÂÀÖ\Qt_femas_14\Win32
+exe.crc=0
+exe.pack=1
+exe.packedfilesvisible=1
+exe.source=E:\·ÉÂí±­\³ÂÀÖ\Qt_femas_14\Win32\Release\Qt_femas.exe
+exe.target=Qt_femas_V0.0.exe
+key.0=353C8381224577C5B2F7AEA61BF29D68
+key.1=72FB2049C793480109C94DC6FF3D7A8E
+
+box.contents~
+00 msvcp100.dll
+00 msvcr100.dll
+00 Qt5Core.dll
+00 Qt5Gui.dll
+00 Qt5Widgets.dll
+00 Qt_femas.exe
+00 Qt_femas.exe.mbxcfg
+00 USTPmduserapi.dll
+00 USTPtraderapi.dll
+~

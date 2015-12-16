@@ -1,0 +1,200 @@
+﻿生成启动时间为 2015/9/22 9:51:37。
+     1>项目“E:\飞马杯\陈乐\Qt_femas_14\Qt_femas\Qt_femas.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\Qt_femas.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\Qt_femas.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing qt_femas.h...
+         Uic'ing qt_femas.ui...
+         Moc'ing logindialog.h...
+         Rcc'ing qt_femas.qrc...
+         Uic'ing LoginDialog.ui...
+       ClCompile:
+         g:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IG:\QT\Qt5.5.0\5.5\msvc2010\include /I.\GeneratedFiles\Release /IG:\QT\Qt5.5.0\5.5\msvc2010\include\QtCore /IG:\QT\Qt5.5.0\5.5\msvc2010\include\QtGui /IG:\QT\Qt5.5.0\5.5\msvc2010\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_qt_femas.cpp
+         qrc_qt_femas.cpp
+         g:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IG:\QT\Qt5.5.0\5.5\msvc2010\include /I.\GeneratedFiles\Release /IG:\QT\Qt5.5.0\5.5\msvc2010\include\QtCore /IG:\QT\Qt5.5.0\5.5\msvc2010\include\QtGui /IG:\QT\Qt5.5.0\5.5\msvc2010\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Release\moc_logindialog.cpp GeneratedFiles\Release\moc_qt_femas.cpp logindialog.cpp main.cpp MarketData\FemasMarketData.cpp MySpi\femasMdSpi.cpp MySpi\femasTraderSpi.cpp PublicFuncs.cpp qt_femas.cpp Strategy\Strategy.cpp Strategy\StrategyTask.cpp SystemCore\Global.cpp SystemCore\LocalMemory.cpp SystemCore\OrderManageSys.cpp
+         moc_logindialog.cpp
+         moc_qt_femas.cpp
+         logindialog.cpp
+         main.cpp
+         FemasMarketData.cpp
+         femasMdSpi.cpp
+         femasTraderSpi.cpp
+         PublicFuncs.cpp
+         qt_femas.cpp
+         Strategy.cpp
+         StrategyTask.cpp
+         Global.cpp
+         LocalMemory.cpp
+         OrderManageSys.cpp
+         正在生成代码...
+       Link:
+         g:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\飞马杯\陈乐\Qt_femas_14\Win32\Release\\Qt_femas.exe" /NOLOGO /LIBPATH:G:\QT\Qt5.5.0\5.5\msvc2010\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Qt_femas.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\飞马杯\陈乐\Qt_femas_14\Win32\Release\Qt_femas.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\飞马杯\陈乐\Qt_femas_14\Win32\Release\Qt_femas.lib" /MACHINE:X86 Release\qrc_qt_femas.obj
+         Release\moc_logindialog.obj
+         Release\moc_qt_femas.obj
+         Release\logindialog.obj
+         Release\main.obj
+         Release\FemasMarketData.obj
+         Release\femasMdSpi.obj
+         Release\femasTraderSpi.obj
+         Release\PublicFuncs.obj
+         Release\qt_femas.obj
+         Release\Strategy.obj
+         Release\StrategyTask.obj
+         Release\Global.obj
+         Release\LocalMemory.obj
+         Release\OrderManageSys.obj
+         USTPmduserapi.lib
+         USTPtraderapi.lib
+         Qt_femas.vcxproj -> E:\飞马杯\陈乐\Qt_femas_14\Win32\Release\Qt_femas.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\飞马杯\陈乐\Qt_femas_14\Win32\Release\\Qt_femas.exe;#1" /manifest Release\Qt_femas.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\Qt_femas.unsuccessfulbuild”。
+         正在对“Release\Qt_femas.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\飞马杯\陈乐\Qt_femas_14\Qt_femas\Qt_femas.vcxproj”(rebuild 个目标)的操作。
+
+项目性能摘要:
+    22063 毫秒  E:\飞马杯\陈乐\Qt_femas_14\Qt_femas\Qt_femas.vcxproj   1 次调用
+              22063 毫秒  rebuild                                    1 次调用
+
+目标性能摘要:
+        0 毫秒  ComputeManifestGeneratedLinkerInputs       1 次调用
+        0 毫秒  FinalizeBuildStatus                        1 次调用
+        0 毫秒  SelectCustomBuild                          1 次调用
+        0 毫秒  _CheckForCompileOutputs                    1 次调用
+        0 毫秒  SelectClCompile                            1 次调用
+        0 毫秒  ResolveReferences                          1 次调用
+        0 毫秒  ComputeCLCompileGeneratedXDCFiles          1 次调用
+        0 毫秒  Clean                                      1 次调用
+        0 毫秒  MakeDirsForManifest                        1 次调用
+        0 毫秒  ComputeCLCompileGeneratedSbrFiles          1 次调用
+        0 毫秒  AfterClCompile                             1 次调用
+        0 毫秒  BuildCompileTraverse                       1 次调用
+        0 毫秒  ExpandSDKReferences                        1 次调用
+        0 毫秒  CreateCustomManifestResourceNames          1 次调用
+        0 毫秒  GetReferenceAssemblyPaths                  1 次调用
+        0 毫秒  _ClCompile                                 1 次调用
+        0 毫秒  BeforeLink                                 1 次调用
+        0 毫秒  AfterCppClean                              1 次调用
+        0 毫秒  ComputeMIDLGeneratedCompileInputs          1 次调用
+        0 毫秒  BeforeClean                                1 次调用
+        0 毫秒  CleanReferencedProjects                    1 次调用
+        0 毫秒  CleanPublishFolder                         1 次调用
+        0 毫秒  _Manifest                                  1 次调用
+        0 毫秒  BuildCompile                               1 次调用
+        0 毫秒  _Midl                                      1 次调用
+        0 毫秒  _PrepareForBuild                           1 次调用
+        0 毫秒  RegisterOutput                             1 次调用
+        0 毫秒  AfterBuildGenerateSources                  1 次调用
+        0 毫秒  _DetermineManagedStateForLink              1 次调用
+        0 毫秒  PostBuildEvent                             1 次调用
+        0 毫秒  MakeDirsForBscMake                         1 次调用
+        0 毫秒  Rebuild                                    1 次调用
+        0 毫秒  _Xsd                                       1 次调用
+        0 毫秒  _DetermineManagedStateFromCL               1 次调用
+        0 毫秒  GetCopyToOutputDirectoryXamlAppDefs        1 次调用
+        0 毫秒  ComputeCLInputPDBName                      1 次调用
+        0 毫秒  PGInstrumentedClean                        1 次调用
+        0 毫秒  AfterResourceCompile                       1 次调用
+        0 毫秒  ComputeLinkImportLibraryOutputsForClean    1 次调用
+        0 毫秒  _XdcMake                                   1 次调用
+        0 毫秒  ComputeRCOutputs                           1 次调用
+        0 毫秒  _GenerateXMLData                           1 次调用
+        0 毫秒  AfterClean                                 1 次调用
+        0 毫秒  CopyFilesToOutputDirectory                 1 次调用
+        0 毫秒  CreateSatelliteAssemblies                  1 次调用
+        0 毫秒  BuildLinkTraverse                          1 次调用
+        0 毫秒  _ResourceCompile                           1 次调用
+        0 毫秒  MakeDirsForResourceCompile                 1 次调用
+        0 毫秒  BeforeRebuild                              1 次调用
+        0 毫秒  _Link                                      1 次调用
+        0 毫秒  BeforeCppClean                             1 次调用
+        0 毫秒  ComputeLinkInputsFromProject               1 次调用
+        0 毫秒  AfterBuild                                 1 次调用
+        0 毫秒  BeforeResolveReferences                    1 次调用
+        0 毫秒  AfterResolveReferences                     1 次调用
+        0 毫秒  _SelectedFiles                             1 次调用
+        0 毫秒  _BscMake                                   1 次调用
+        0 毫秒  PreBuildEvent                              1 次调用
+        0 毫秒  DoLinkOutputFilesMatch                     1 次调用
+        0 毫秒  AfterLink                                  1 次调用
+        0 毫秒  SplitResourcesByCulture                    1 次调用
+        0 毫秒  ComputeRCGeneratedLinkInputs               1 次调用
+        0 毫秒  BeforeClCompile                            1 次调用
+        0 毫秒  AfterBuildGenerateSourcesEvent             1 次调用
+        0 毫秒  PrepareResourceNames                       1 次调用
+        0 毫秒  _Appverifier                               1 次调用
+        0 毫秒  _SplitProjectReferencesByFileExistence     1 次调用
+        0 毫秒  ResolveProjectReferences                   1 次调用
+        0 毫秒  ComputeCLGeneratedLinkInputs               1 次调用
+        0 毫秒  InitializeBuildStatus                      1 次调用
+        0 毫秒  AssignTargetPaths                          1 次调用
+        0 毫秒  BuildGenerateSourcesTraverse               1 次调用
+        0 毫秒  BuildLink                                  1 次调用
+        0 毫秒  AfterRebuild                               1 次调用
+        0 毫秒  MakeDirsForLink                            1 次调用
+        0 毫秒  _ALink                                     1 次调用
+        0 毫秒  ResolveSDKReferences                       1 次调用
+        0 毫秒  ComputeCLOutputs                           1 次调用
+        0 毫秒  CppClean                                   1 次调用
+        0 毫秒  _Deploy                                    1 次调用
+        0 毫秒  _GenerateSatelliteAssemblyInputs           1 次调用
+        0 毫秒  Build                                      1 次调用
+        0 毫秒  PrepareForBuild                            1 次调用
+        0 毫秒  ComputeManifestInputsTargets               1 次调用
+        0 毫秒  BeforeResourceCompile                      1 次调用
+        0 毫秒  GetCopyToOutputDirectoryItems              1 次调用
+        0 毫秒  SetBuildDefaultEnvironmentVariables        1 次调用
+        0 毫秒  PreLinkEvent                               1 次调用
+        0 毫秒  AfterMidl                                  1 次调用
+        0 毫秒  _CopySourceItemsToOutputDirectory          1 次调用
+        0 毫秒  AfterBuildCompileEvent                     1 次调用
+        0 毫秒  MakeDirsForXdcMake                         1 次调用
+        0 毫秒  PlatformPrepareForBuild                    1 次调用
+        0 毫秒  AssignProjectConfiguration                 1 次调用
+        0 毫秒  GetInstalledSDKLocations                   1 次调用
+        0 毫秒  ResolvedXDCMake                            1 次调用
+        0 毫秒  BeforeBuildGenerateSources                 1 次调用
+        0 毫秒  _PrepareForRebuild                         1 次调用
+        0 毫秒  _GenerateWebServiceProxy                   1 次调用
+        0 毫秒  BuildGenerateSources                       1 次调用
+        1 毫秒  MakeDirsForMidl                            1 次调用
+        1 毫秒  MakeDirsForCl                              1 次调用
+        2 毫秒  ComputeReferenceCLInput                    1 次调用
+       16 毫秒  _PrepareForClean                           1 次调用
+       16 毫秒  ComputeCustomBuildOutput                   1 次调用
+       16 毫秒  GetFrameworkPaths                          1 次调用
+       16 毫秒  _CheckForInvalidConfigurationAndPlatform   1 次调用
+       47 毫秒  CoreClean                                  1 次调用
+       94 毫秒  CoreCppClean                               1 次调用
+      156 毫秒  ResolveAssemblyReferences                  1 次调用
+      312 毫秒  Manifest                                   1 次调用
+     1622 毫秒  Link                                       1 次调用
+     3375 毫秒  CustomBuild                                1 次调用
+    16391 毫秒  ClCompile                                  1 次调用
+
+任务性能摘要:
+        0 毫秒  AssignProjectConfiguration                 1 次调用
+        0 毫秒  SetEnv                                     4 次调用
+        0 毫秒  Touch                                      2 次调用
+        0 毫秒  ReadLinesFromFile                          2 次调用
+        0 毫秒  Message                                    3 次调用
+        0 毫秒  AssignCulture                              1 次调用
+        0 毫秒  RemoveDuplicates                           1 次调用
+        0 毫秒  MakeDir                                   12 次调用
+        0 毫秒  AssignTargetPath                           6 次调用
+       16 毫秒  Delete                                     5 次调用
+       17 毫秒  WriteLinesToFile                           4 次调用
+       31 毫秒  FindUnderPath                              2 次调用
+       94 毫秒  CppClean                                   1 次调用
+      156 毫秒  ResolveAssemblyReference                   1 次调用
+      312 毫秒  Mt                                         1 次调用
+     1622 毫秒  Link                                       1 次调用
+     3375 毫秒  CustomBuild                                1 次调用
+    16376 毫秒  CL                                         2 次调用
+
+生成成功。
+
+已用时间 00:00:22.06
